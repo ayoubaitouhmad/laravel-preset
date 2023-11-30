@@ -1,12 +1,12 @@
 {
-    "name": "laracasts/laravel-preset",
+    "name": "ayoubaitouhmad/laravel-preset",
     "description": "The default Laracasts Laravel preset.",
-    "keywords": ["laravel", "laravel preset", "laracasts"],
+    "keywords": ["laravel", "laravel preset", "ayoubaitouhmad"],
     "license": "MIT",
     "authors": [
         {
             "name": "Jeffrey Way",
-            "email": "jeffrey@laracasts.com"
+            "email": "ayoubaitouhmad@ayoubaitouhmad.com"
         }
     ],
     "minimum-stability": "stable",
